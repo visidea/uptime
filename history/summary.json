@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1497,
-    "timeDay": 1497,
-    "timeWeek": 1497,
-    "timeMonth": 1497,
-    "timeYear": 1497,
+    "time": 1797,
+    "timeDay": 1797,
+    "timeWeek": 1797,
+    "timeMonth": 1797,
+    "timeYear": 1797,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api.visidea.ai/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.visidea.ai.ico",
     "slug": "visidea-ap-is",
-    "status": "down",
-    "uptime": "60.42%",
-    "uptimeDay": "60.42%",
-    "uptimeWeek": "60.42%",
-    "uptimeMonth": "60.42%",
-    "uptimeYear": "60.42%",
-    "time": 16416,
-    "timeDay": 16416,
-    "timeWeek": 16416,
-    "timeMonth": 16416,
-    "timeYear": 16416,
+    "status": "up",
+    "uptime": "6.28%",
+    "uptimeDay": "6.28%",
+    "uptimeWeek": "6.28%",
+    "uptimeMonth": "6.28%",
+    "uptimeYear": "6.28%",
+    "time": 8431,
+    "timeDay": 8431,
+    "timeWeek": 8431,
+    "timeMonth": 8431,
+    "timeYear": 8431,
     "dailyMinutesDown": {
-      "2023-12-22": 0
+      "2023-12-22": 5
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   }
 ]
