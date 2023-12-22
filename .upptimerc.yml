@@ -5,10 +5,13 @@ repo: uptime # The name of this repository
 sites:
   - name: Visidea website
     url: https://visidea.ai
+    icon: https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png
   - name: Visidea APIs
     url: https://api.visidea.ai/api/health
+    icon: https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png
   - name: Visidea dashboard
     url: https://app.visidea.ai/
+    icon: https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
