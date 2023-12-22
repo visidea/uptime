@@ -23,19 +23,17 @@
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "visidea-ap-is",
     "status": "up",
-    "uptime": "13.97%",
-    "uptimeDay": "13.97%",
-    "uptimeWeek": "13.97%",
-    "uptimeMonth": "13.97%",
-    "uptimeYear": "13.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3007,
     "timeDay": 3007,
     "timeWeek": 3007,
     "timeMonth": 3007,
     "timeYear": 3007,
-    "dailyMinutesDown": {
-      "2023-12-22": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Visidea dashboard",
