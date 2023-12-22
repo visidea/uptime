@@ -19,6 +19,7 @@ status-website:
   cname: status.visidea.ai
   # baseUrl: /your-repo-name
   logoUrl: https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png
+  favicon: https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png
   name: Visidea
   introTitle: "**Visidea** is the Visual Search and Product Recommendations SAAS for e-commerce websites."
   introMessage: This is the status page of the services of **Visidea** in real-time.
