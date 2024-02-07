@@ -4,18 +4,20 @@
     "url": "https://visidea.ai",
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "visidea-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2264,
-    "timeDay": 2633,
-    "timeWeek": 2067,
-    "timeMonth": 2492,
-    "timeYear": 2264,
-    "dailyMinutesDown": {}
+    "time": 2231,
+    "timeDay": 1496,
+    "timeWeek": 1854,
+    "timeMonth": 2426,
+    "timeYear": 2231,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "Visidea APIs",
