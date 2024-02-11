@@ -10,11 +10,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 2215,
-    "timeDay": 1816,
-    "timeWeek": 1764,
-    "timeMonth": 2439,
-    "timeYear": 2215,
+    "time": 2221,
+    "timeDay": 2572,
+    "timeWeek": 1831,
+    "timeMonth": 2432,
+    "timeYear": 2221,
     "dailyMinutesDown": {
       "2024-02-07": 8
     }
@@ -25,16 +25,16 @@
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "visidea-ap-is",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 614,
-    "timeDay": 282,
-    "timeWeek": 332,
-    "timeMonth": 365,
-    "timeYear": 614,
+    "uptimeYear": "99.97%",
+    "time": 612,
+    "timeDay": 470,
+    "timeWeek": 353,
+    "timeMonth": 366,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2023-12-22": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 275,
-    "timeWeek": 330,
-    "timeMonth": 364,
-    "timeYear": 349,
+    "time": 350,
+    "timeDay": 447,
+    "timeWeek": 346,
+    "timeMonth": 362,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   }
 ]
