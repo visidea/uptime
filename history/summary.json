@@ -4,7 +4,7 @@
     "url": "https://visidea.ai",
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "visidea-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2095,
     "timeYear": 2199,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-02-07": 8
     }
   },
