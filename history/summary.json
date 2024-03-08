@@ -6,15 +6,15 @@
     "slug": "visidea-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 2196,
-    "timeDay": 2044,
-    "timeWeek": 2182,
-    "timeMonth": 2075,
-    "timeYear": 2196,
+    "time": 2197,
+    "timeDay": 2300,
+    "timeWeek": 2172,
+    "timeMonth": 2152,
+    "timeYear": 2197,
     "dailyMinutesDown": {
       "2024-03-06": 5,
       "2024-02-07": 8
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 542,
-    "timeDay": 441,
-    "timeWeek": 399,
-    "timeMonth": 362,
-    "timeYear": 542,
+    "time": 541,
+    "timeDay": 466,
+    "timeWeek": 387,
+    "timeMonth": 367,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2023-12-22": 26
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 342,
-    "timeWeek": 373,
-    "timeMonth": 359,
-    "timeYear": 354,
+    "time": 355,
+    "timeDay": 456,
+    "timeWeek": 366,
+    "timeMonth": 363,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   }
 ]
