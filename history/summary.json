@@ -5,16 +5,16 @@
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "visidea-website",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.55%",
-    "time": 2576,
-    "timeDay": 4400,
-    "timeWeek": 2683,
-    "timeMonth": 3162,
-    "timeYear": 2714,
+    "time": 2578,
+    "timeDay": 3754,
+    "timeWeek": 2749,
+    "timeMonth": 3172,
+    "timeYear": 2720,
     "dailyMinutesDown": {
       "2025-04-10": 239,
       "2025-03-13": 25,
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
-    "time": 416,
-    "timeDay": 309,
-    "timeWeek": 984,
-    "timeMonth": 474,
+    "time": 417,
+    "timeDay": 645,
+    "timeWeek": 1011,
+    "timeMonth": 484,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2025-04-14": 18,
@@ -79,8 +79,7 @@
       "2024-07-11": 14,
       "2024-06-21": 13,
       "2024-06-03": 119,
-      "2024-04-25": 5,
-      "2024-04-23": 6
+      "2024-04-25": 5
     }
   },
   {
@@ -96,7 +95,7 @@
     "uptimeYear": "99.98%",
     "time": 361,
     "timeDay": 273,
-    "timeWeek": 375,
+    "timeWeek": 363,
     "timeMonth": 373,
     "timeYear": 363,
     "dailyMinutesDown": {
