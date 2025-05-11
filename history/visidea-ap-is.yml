@@ -1,7 +1,7 @@
 url: https://api.visidea.ai/api/health
-status: down
-code: 521
-responseTime: 215
-lastUpdated: 2025-05-11T22:47:09.564Z
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2025-05-11T22:54:10.481Z
 startTime: 2023-12-22T11:15:37.295Z
 generator: Upptime <https://github.com/upptime/upptime>
