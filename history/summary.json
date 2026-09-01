@@ -5,11 +5,11 @@
     "icon": "https://visidea.ai/wp-content/uploads/2022/02/cropped-favicon_Tavola-disegno-1-1-192x192.png",
     "slug": "visidea-website",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.23%",
+    "uptimeDay": "88.81%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.80%",
     "time": 2199,
     "timeDay": 4328,
     "timeWeek": 3416,
@@ -22,7 +22,8 @@
       "2025-09-25": 16,
       "2026-03-02": 150,
       "2026-03-28": 22,
-      "2026-05-03": 43
+      "2026-05-03": 43,
+      "2026-09-01": 161
     }
   },
   {
